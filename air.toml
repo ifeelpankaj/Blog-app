@@ -1,0 +1,34 @@
+
+# Config file for Air (https://github.com/air-verse/air)
+
+# Root directory to watch
+root = "."
+
+# Temporary output binary
+tmp_dir = "tmp"
+
+[build]
+  cmd = "go build -o ./tmp/main ."
+  bin = "./tmp/main"
+  include_ext = ["go", "mod", "sum", "env"]
+  exclude_dir = ["tmp", "vendor"]
+  exclude_file = []
+  exclude_unchanged = false
+  follow_symlink = false
+  delay = 1000
+  stop_on_error = true
+
+[log]
+  time = true
+
+[color]
+  main = "magenta"
+  watcher = "cyan"
+  build = "yellow"
+  runner = "green"
+
+[misc]
+  clean_on_exit = true
+
+[screen]
+  clear_on_rebuild = true

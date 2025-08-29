@@ -1,0 +1,165 @@
+{"level":"INFO","timestamps":"25 Aug 2025 20:35:55","caller":"logger/logger.go:90","message":"Logger working","port : ":"4000"}
+{"level":"INFO","timestamps":"25 Aug 2025 21:09:23","caller":"logger/logger.go:90","message":"Starting server on  dev mode","port":"4000"}
+{"level":"INFO","timestamps":"25 Aug 2025 21:37:31","caller":"logger/logger.go:90","message":"Starting server on dev mode","port":"4000"}
+{"level":"INFO","timestamps":"25 Aug 2025 21:37:39","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"25 Aug 2025 21:37:39","caller":"logger/logger.go:90","message":"Database connection closed."}
+{"level":"INFO","timestamps":"25 Aug 2025 21:37:39","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"25 Aug 2025 21:37:54","caller":"logger/logger.go:90","message":"Starting server on dev mode","port":"4000"}
+{"level":"INFO","timestamps":"25 Aug 2025 21:48:57","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"25 Aug 2025 21:48:57","caller":"logger/logger.go:90","message":"Database connection closed."}
+{"level":"INFO","timestamps":"25 Aug 2025 21:48:57","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"ERROR","timestamps":"25 Aug 2025 22:27:53","caller":"logger/logger.go:91","message":"Failed to ping DB","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nblog_app/db.Init\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/db/db.go:46\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:27\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"25 Aug 2025 22:27:53","caller":"logger/logger.go:91","message":"APP_ERROR: Database initialization failed","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"25 Aug 2025 22:42:01","caller":"logger/logger.go:91","message":"Failed to ping DB","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nblog_app/db.Init\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/db/db.go:46\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:27\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"25 Aug 2025 22:42:01","caller":"logger/logger.go:91","message":"APP_ERROR: Database initialization failed","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 00:59:27","caller":"logger/logger.go:91","message":"Failed to ping DB","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nblog_app/db.Init\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/db/db.go:46\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:27\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 00:59:27","caller":"logger/logger.go:91","message":"APP_ERROR: Database initialization failed","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 01:01:31","caller":"logger/logger.go:91","message":"Failed to ping DB","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nblog_app/db.Init\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/db/db.go:46\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:27\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 01:01:31","caller":"logger/logger.go:91","message":"APP_ERROR: Database initialization failed","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 01:08:21","caller":"logger/logger.go:91","message":"Failed to ping DB","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nblog_app/db.Init\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/db/db.go:46\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:27\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 01:08:21","caller":"logger/logger.go:91","message":"APP_ERROR: Database initialization failed","error":"pq: password authentication failed for user \"root\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 01:10:29","caller":"logger/logger.go:91","message":"Failed to ping DB","error":"pq: password authentication failed for user \"postgres\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nblog_app/db.Init\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/db/db.go:46\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:27\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"ERROR","timestamps":"26 Aug 2025 01:10:29","caller":"logger/logger.go:91","message":"APP_ERROR: Database initialization failed","error":"pq: password authentication failed for user \"postgres\"","trace":"blog_app/utils/logger.Error\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/utils/logger/logger.go:91\nmain.main\n\tC:/Users/PKHOLIYA/OneDrive - Capgemini/Desktop/____personal_Work/blog_app/server.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:12:03","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:12:03","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:12:03","caller":"logger/logger.go:90","message":"Starting server on dev mode","port":"4000"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:23:35","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 01:23:35","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:23:35","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:29:36","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:29:36","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:29:36","caller":"logger/logger.go:90","message":"Starting server on dev mode","port":"4000"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:44:53","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 01:44:53","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:44:53","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:45:08","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:45:08","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:48:35","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 01:48:35","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:48:35","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:48:47","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:48:47","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:51:16","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 01:51:16","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:51:16","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:51:31","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 01:51:31","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:02:49","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 02:02:49","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:02:49","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:03:43","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:03:43","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:04:14","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 02:04:14","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:04:14","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:05:25","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:05:25","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:06:18","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 02:06:18","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:06:18","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:18:34","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:18:34","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:20:19","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:20:19","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:20:37","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:20:37","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:21:33","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 02:21:33","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 11:25:06","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"26 Aug 2025 11:25:06","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 11:25:06","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:01:27","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:01:27","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:31:18","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:31:18","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:31:46","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:31:46","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:33:38","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:33:38","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:34:19","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:34:19","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:35:38","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:35:38","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:36:02","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:36:02","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:36:20","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:36:20","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:37:29","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:37:29","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:43:57","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:43:57","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:44:29","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:44:29","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:45:03","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:45:03","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:59:35","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 16:59:35","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:08:43","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:08:43","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:09:11","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:09:11","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:09:54","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:09:54","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:10:11","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:10:11","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:13:45","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:13:45","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:14:17","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:14:17","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:14:28","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:14:28","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:14:39","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:14:39","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:15:33","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:15:33","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:17:06","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:17:06","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:19:47","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:19:47","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:22:16","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"26 Aug 2025 17:22:16","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 02:32:18","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 02:32:18","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 02:33:34","caller":"logger/logger.go:90","message":"Received shutdown signal, closing server gracefully..."}
+{"level":"INFO","timestamps":"27 Aug 2025 02:33:34","caller":"logger/logger.go:90","message":"Database connection closed successfully"}
+{"level":"INFO","timestamps":"27 Aug 2025 02:33:34","caller":"logger/logger.go:90","message":"Server closed successfully"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:01:22","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:01:22","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:02:15","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:02:15","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:03:51","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:03:51","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:04:25","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 16:04:25","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:08:37","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:08:37","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:11:33","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:11:33","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:11:58","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:11:58","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:12:18","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:12:18","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:08","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:08","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:28","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:28","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:36","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:36","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:53","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:13:53","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:14:51","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:14:51","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:15:38","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:15:38","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:16:09","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:16:09","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:16:20","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:16:20","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:16:49","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:16:49","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:17:14","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:17:14","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:20:58","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:20:58","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:21:32","caller":"logger/logger.go:90","message":"Database connection established","DB_NAME":"blog_app_db"}
+{"level":"INFO","timestamps":"27 Aug 2025 17:21:32","caller":"logger/logger.go:90","message":"Database connection is healthy","Success":"True"}

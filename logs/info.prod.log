@@ -1,0 +1,2 @@
+{"level":"INFO","timestamps":"25 Aug 2025 20:36:17","caller":"logger/logger.go:90","message":"Logger working","port : ":"4000"}
+{"level":"INFO","timestamps":"25 Aug 2025 21:08:06","caller":"logger/logger.go:90","message":"Starting server on  prodmode","port":"4000"}
